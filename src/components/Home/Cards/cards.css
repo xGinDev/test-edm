@@ -1,0 +1,5 @@
+@media screen and (min-width: 64em){
+    .container-cards-home .subcontainer-cards-home:nth-child(2n) {
+        flex-direction: row-reverse;
+    }
+}
